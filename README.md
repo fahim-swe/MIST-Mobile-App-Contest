@@ -5,6 +5,66 @@ The 'Mobile App Contest' segment of the 'Online Innovation Fest' hosted by CSE D
 ## Category: Humanitarian Services under COVID-19
 Due to the COVID-19 pandemic, providing and managing the humanitarian services become a crucial concern around the globe. Thus, the innovative apps that address the humanitarian services under COVID-19 pandemic are mostly welcomed in this category. For example: COVID-19 relief and information, medical aid or food relief during or after this pandemic, blood banks, donating excess foods, remote health services, vaccination management, clothes, and medics. However, any other innovative apps providing humanitarian services like disaster management, assistive apps for disabled /visually impaired people, and providing the fastest route in emergency situations.
 
+# Humanitarian Services App
+
+## Project Overview
+
+The Humanitarian Services App is a comprehensive mobile application designed to address critical needs and provide support during the COVID-19 pandemic and other emergency situations. The app offers a range of features that cater to different humanitarian services, ensuring efficient access to essential resources.
+
+### Health Services
+
+The Health Services section of the app focuses on providing users with access to medical assistance and support. Key features include:
+
+- Find Doctors: Users can search for doctors based on their specialization and view their profiles, including qualifications and experience.
+- Book Appointments: Users can schedule appointments with doctors of their choice.
+- Instant Messaging: Users can communicate directly with doctors through secure and private messaging.
+- Health Forum: Users can post health-related problems and engage in discussions with other community members.
+
+### Blood Bank
+
+The Blood Bank section facilitates the process of blood donation and retrieval. Key features include:
+
+- Request or Donate Blood: Users can post requests for blood donations or offer to donate blood.
+- Mention and Notifications: Users can mention other users in the comment section or call for immediate assistance. Mentioned users will receive notifications about the comments.
+- Sorting by Blood Group: Posts can be filtered based on the required blood group, making it easier for users to find relevant donation requests.
+
+### COVID-19
+
+The COVID-19 section provides essential resources and information related to the ongoing pandemic. Key features include:
+
+- Emergency Calling and SMS Service: Users experiencing COVID-19 symptoms can quickly access emergency services through one-touch calling or SMS.
+- Prevention Guidelines: Users can access guidelines and recommendations for preventing the spread of COVID-19.
+- Daily COVID-19 Updates: The app displays country-wise daily updates on COVID-19 cases, including the number of affected cases, deaths, recoveries, active cases, and serious cases. The data is presented in an easily understandable bar graph format.
+
+### Medicine Section
+
+The Medicine Section focuses on providing convenient access to medicines. Key features include:
+
+- Pharmacy Listings: Pharmacies can add their medicines to the app, along with detailed information such as dosage, usage instructions, and potential side effects.
+- E-commerce Functionality: Users can browse through the available medicines, add them to their cart, and make purchases within the app.
+- Favorites: Users can save their favorite medicines for quick access in the future.
+- Order Confirmation: Users receive email confirmations for their orders, ensuring a seamless and reliable purchasing experience.
+
+## Technology Used
+
+The Humanitarian Services App is built using the following technologies:
+
+- Java: The primary programming language used for Android app development.
+- Firebase Authentication: Provides secure user authentication and authorization.
+- Firebase Realtime Database: Stores and retrieves data in real-time for seamless communication between users and doctors, blood bank interactions, and COVID-19 updates.
+- Firebase Storage: Enables the storage and retrieval of app-related data, such as profile pictures and medicine images.
+- Android Libraries: The app utilizes various Android libraries, including Volley for efficient network requests, MPandroidChart for visualizing COVID-19 data, and ImageCropper for image manipulation.
+
+## Contributors
+
+- [Your Name]: Back-end Development, Firebase Integration
+- [Contributor 1]: Front-end Development, UI/UX Design
+- [Contributor 2]: Data Management, Firebase Realtime Database Configuration
+- [Contributor 3]: API Integration, External Services
+- ...
+
+
+
 ## Our Solution: 
 
 ![1-Title](https://user-images.githubusercontent.com/86300358/144703834-d5cb8c39-12bf-4fdc-b76e-a56a5c991ca1.jpg)
